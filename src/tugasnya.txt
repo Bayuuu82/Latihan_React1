@@ -1,0 +1,22 @@
+1. Membuat satu project dengan react router sederhana dengan menampilkan 5 menu yang berisikan :
+    a. Home dengan path /
+    b. Profile dengan path menyesuaikan dengan nama /profile
+    c. Gallery
+    d. Music Favorite
+    e. Film Favorite
+
+2. Membuat satu project dengan react router dynamic dengan menampilan nama artis 15 artis :
+    a. bebas ya nama artisnya
+       yang ditampilkan hanya nama artisnya
+
+3. Membuat satu project dengan react router nested dengan menampilkan menu :
+    a. Home
+    b. User
+        b.1 Settings
+        b.2 Profile
+    c. Gallery
+    d. Favorite
+        d.1 Music
+        d.2 Film
+        d.3 Food
+https://forms.gle/rZXyiHbbk8Rd8LiX7
